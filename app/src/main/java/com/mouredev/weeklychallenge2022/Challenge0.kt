@@ -1,5 +1,4 @@
 package com.mouredev.weeklychallenge2022
-
 /*
  * Reto #0
  * EL FAMOSO "FIZZ BUZZ"
